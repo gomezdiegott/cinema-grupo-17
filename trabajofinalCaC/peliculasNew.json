@@ -1,0 +1,137 @@
+[
+    {
+        "id": 94362,
+        "titulo": "Ba\u00f1eros 1",
+        "duracion": 97,
+        "genero": [
+            "Comedia"
+        ],
+        "sinopsis": "Un grupo de hombres que eran ba\u00f1eros en la playa.",
+        "pais_de_origen": "Argentina",
+        "idioma": "Castellano",
+        "clasificacion": [
+            "PG-13"
+        ],
+        "calificacion": 0,
+        "disponible": true
+    },
+    {
+        "id": 28062,
+        "titulo": "Papa se volvio loco",
+        "duracion": 90,
+        "genero": [
+            "Comedia"
+        ],
+        "sinopsis": "Una pareja que tiene una nueva luna de miel.",
+        "pais_de_origen": "Argentina",
+        "idioma": "Castellano",
+        "clasificacion": [
+            "ATP"
+        ],
+        "calificacion": 0,
+        "disponible": true
+    },
+    {
+        "id": 15952,
+        "titulo": "Mi pobre angelito",
+        "duracion": 110,
+        "genero": [
+            "Comedia",
+            "Drama"
+        ],
+        "sinopsis": "Un ni\u00f1o se queda solo en casa en navidad y sobrevive a unos hombres malvados.",
+        "pais_de_origen": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": [
+            "ATP"
+        ],
+        "calificacion": 0,
+        "disponible": true
+    },
+    {
+        "id": 82206,
+        "titulo": "Norbit",
+        "duracion": 100,
+        "genero": [
+            "Comedia"
+        ],
+        "sinopsis": "Norbit y Rasputia estaban casados hasta que Norbit volvio a ver a su ex compa\u00f1era del orfanato.",
+        "pais_de_origen": "EEUU",
+        "idioma": "Castellano",
+        "clasificacion": [
+            "ATP"
+        ],
+        "calificacion": 0,
+        "disponible": true
+    },
+    {
+        "id": 79825,
+        "titulo": "hearvy a toda marcha",
+        "duracion": 90,
+        "genero": [
+            "Ciencia ficci\u00f3n",
+            "Animaci\u00f3n",
+            "Rom\u00e1ntica"
+        ],
+        "sinopsis": "Un auto de carrera abandonado vuelve a la pista.",
+        "pais_de_origen": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": [
+            "ATP"
+        ],
+        "calificacion": 0,
+        "disponible": true
+    },
+    {
+        "id": 19861,
+        "titulo": "Me case con un boludo",
+        "duracion": 100,
+        "genero": [
+            "Comedia",
+            "Drama"
+        ],
+        "sinopsis": "Una mujer se cansa de las actitudes de ni\u00f1o del marido.",
+        "pais_de_origen": "Argentina",
+        "idioma": "Castellano",
+        "clasificacion": [
+            "PG-13"
+        ],
+        "calificacion": 0,
+        "disponible": true
+    },
+    {
+        "id": 77391,
+        "titulo": "Titanic",
+        "duracion": 133,
+        "genero": [
+            "Rom\u00e1ntica",
+            "Drama",
+            "Suspenso"
+        ],
+        "sinopsis": "Jack gana un viaje en barco y conoce al amor de su vida.",
+        "pais_de_origen": "Inglaterra",
+        "idioma": "Ingles",
+        "clasificacion": [
+            "PG"
+        ],
+        "calificacion": 3,
+        "disponible": false
+    },
+    {
+        "id": 87890,
+        "titulo": "Muchachos",
+        "duracion": 123,
+        "genero": [
+            "Acci\u00f3n",
+            "Drama"
+        ],
+        "sinopsis": "Argentina campe\u00f3n mundial 2022",
+        "pais_de_origen": "Argentina",
+        "idioma": "Argentino",
+        "clasificacion": [
+            "ATP"
+        ],
+        "calificacion": 0,
+        "disponible": false
+    }
+]
